@@ -24,6 +24,13 @@ Um pouco sobre mim:
 - 🇧🇷 São Paulo - **Brasil**
 - 👨‍💻 IT Specialist
 
+### 📈 Estatísticas 
+ 
+[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=aleyoshimatsu&theme=cobalt&show_icons=true)](https://github.com/aleyoshimatsu/github-readme-stats)
+
+### 💡  Linguagens 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyoshimatsu&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
+
 <hr>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleyoshimatsu/)](https://www.linkedin.com/in/aleyoshimatsu/)
