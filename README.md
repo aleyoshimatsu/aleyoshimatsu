@@ -21,4 +21,10 @@ Here are some ideas to get you started:
 
 Um pouco sobre mim:
 
-- :br:
+- 🇧🇷 São Paulo - **Brasil**
+- 👨‍💻 IT Specialist
+
+<hr>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleyoshimatsu/)](https://www.linkedin.com/in/aleyoshimatsu/)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@aleyoshimatsu)
