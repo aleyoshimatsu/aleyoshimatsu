@@ -1,8 +1,8 @@
 <h1 align="center">
-  Bem-vindo ao meu GitHub
+  ✅ Bem-vindo ao meu GitHub 🚀
 </h1>
 
-### Hi there 👋
+### E aí pessoal!!! 👋
 
 <!--
 **aleyoshimatsu/aleyoshimatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Um pouco sobre mim:
+
+- :br:
