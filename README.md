@@ -2,7 +2,7 @@
   ✅ Bem-vindo ao meu GitHub 🚀
 </h1>
 
-### E aí pessoal!!! 👋
+### E aí pessoal !!! Tudo bem? 👋
 
 <!--
 **aleyoshimatsu/aleyoshimatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://emojipedia.org/
+
 -->
 
 Um pouco sobre mim:
@@ -25,10 +28,10 @@ Um pouco sobre mim:
 - 👨‍💻 IT Specialist
 
 ### ⚡ Habilidades:
-
+![DevOps](https://img.shields.io/badge/-DevOps-yellowgreen) ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=GitHub&logoColor=FFFFFF) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ### 🛠 Ferramentas:
-
+![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=amazon%20aws&logoColor=FFFFFF) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?&logo=kubernetes&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/-Docker-2496ED?&logo=docker&logoColor=FFFFFF) ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?&logo=Jenkins&logoColor=FFFFFF)
 
 ### 📈 Estatísticas 
  
@@ -41,3 +44,7 @@ Um pouco sobre mim:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleyoshimatsu/)](https://www.linkedin.com/in/aleyoshimatsu/)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?&logo=telegram&logoColor=FFFFFF)](https://web.telegram.org/#/im?p=@aleyoshimatsu)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Faleyoshimatsu)](https://twitter.com/aleyoshimatsu)
+[![GitHub](https://img.shields.io/badge/-@aleyoshimatsu-%23181717?style=flat-square&logo=github)](https://github.com/aleyoshimatsu)
+[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)](https://gitlab.com/aleyoshimatsu)
+
