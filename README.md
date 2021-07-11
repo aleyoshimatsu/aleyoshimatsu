@@ -24,9 +24,15 @@ Um pouco sobre mim:
 - 🇧🇷 São Paulo - **Brasil**
 - 👨‍💻 IT Specialist
 
+### ⚡ Habilidades:
+
+
+### 🛠 Ferramentas:
+
+
 ### 📈 Estatísticas 
  
-[![Mayara github stats](https://github-readme-stats.vercel.app/api?username=aleyoshimatsu&theme=cobalt&show_icons=true)](https://github.com/aleyoshimatsu/github-readme-stats)
+[![Alexandre github stats](https://github-readme-stats.vercel.app/api?username=aleyoshimatsu&theme=cobalt&show_icons=true)](https://github.com/aleyoshimatsu/github-readme-stats)
 
 ### 💡  Linguagens 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aleyoshimatsu&hide=scss&layout=compact&theme=cobalt&title_color=2ED3EA)
